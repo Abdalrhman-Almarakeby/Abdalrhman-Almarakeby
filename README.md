@@ -16,7 +16,7 @@
 
 ###
 
-<h2>My stats:</h2>
+<h2>My Stats:</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdalrhman-Almarakeby&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -26,7 +26,7 @@
 
 ###
 
-<h2>I use:</h2>
+<h2>I Use:</h2>
 
 <div  style="display:flex;justify-content:space-evenly;margin-top:50px">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
